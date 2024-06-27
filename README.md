@@ -16,7 +16,7 @@ Clone the repository from GitHub:
 
 sh
 Copy code
-git clone https://github.com/your-username/recipe-app.git
+git clone https://github.com/ST10345300/WPFrepo
 Open the solution file (RecipeApp.sln) in Visual Studio.
 
 Build the solution to restore the NuGet packages and compile the project.
